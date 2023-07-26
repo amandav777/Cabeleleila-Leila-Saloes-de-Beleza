@@ -1,7 +1,7 @@
 # Cabeleleila Leila Salões de Beleza 
 
 Olá!
-Para a construção desse sistema utilizei de Python 'puro', com loops, funções e importação de biblioteca.
+Para a construção desse sistema utilizei de Python 'puro', com loops, funções e importação de biblioteca. Por isso, não requer nenhuma plataforma em específico para "rodar", mas recomendo que seja no Visual Studio Code ou no Google Colab, que foi onde desenvolvi e testei.
 O sistema está simples e foi construido para ser simples e facilitar a navegação do usuário.
 
 
